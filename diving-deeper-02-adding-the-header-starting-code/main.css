@@ -71,3 +71,11 @@ body {
     text-decoration:none;
     color: #0e4f1f;
 }
+
+.top-nav__item a:hover{
+    color:white;
+}
+
+.top-nav__item a:active{
+    color:white;
+}
