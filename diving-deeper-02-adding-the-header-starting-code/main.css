@@ -34,4 +34,22 @@ body {
     padding: 8px 60px;
 }
 
+.top-nav__item{
+    display: inline-block;
+}
 
+.top-Header > div {
+    display:inline-block;
+}
+
+.top-nav{
+   display: inline-block; 
+   text-align:right;
+   width: calc(100%-49px);
+}
+
+.top-nav__items{
+    margin: 0;
+    padding: 0;
+    list-style:none;
+}
