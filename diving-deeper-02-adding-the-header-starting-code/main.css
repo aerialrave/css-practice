@@ -70,11 +70,14 @@ body {
 .top-nav__item a {
     text-decoration:none;
     color: #0e4f1f;
+    font-weight:bold;
+    padding: 3px;
 }
 
 .top-nav__item a:hover,
 .top-nav__item a:active{
     color:white;
+    border-bottom:5px solid white;
 }
 
 
