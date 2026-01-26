@@ -87,8 +87,12 @@ body {
 
 .button:hover, 
 .button:active{
-    background:white;
+    background: white;
     color: #0e4f1f;
+}
+
+.button:focus{
+    outline: none;
 }
 
 /* h1 {
