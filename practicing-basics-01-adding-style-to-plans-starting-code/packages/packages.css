@@ -56,6 +56,10 @@ main{
     text-align:right;
 }
 
+#broke:hover, .broke:active{
+    border-left-color:#ff5454;
+}
+
 #concierge{
     background: rgba(14,79,31,0.95);
 
