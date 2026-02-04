@@ -17,7 +17,7 @@ body {
     top: 00px;
     left: 00px;
     margin:0;
-    z-index: 0;
+    z-index: 1;
 }
 
 .main-header > div {
